@@ -10,7 +10,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeenvik1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<text x="435" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="750">Developed by</text>
-<text x="435" y="140" transform="scale(.1)" textLength="750">Developed by</text>
-#3776AB
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeenvik1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
