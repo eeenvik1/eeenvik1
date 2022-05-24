@@ -3,7 +3,7 @@
 
 ### I'm  member of the purple team and vulnerability researcher
 * 👀 Tiny Python developer
-* 🏳️ Member of CTF team [5HM3L](https://ctftime.org/team/151934) 
+* 🏳️ Member of CTF team [![smhel](https://user-images.githubusercontent.com/49790977/170053292-5507ac51-f5e3-4fd2-ae80-d5081996bf89.svg)](https://ctftime.org/team/151934) 
 * 👾 I am engaged in threat modeling
 
 **I know and can do**
@@ -29,3 +29,4 @@
 
 🔗**Find me here:**
 [![telegram](https://user-images.githubusercontent.com/49790977/170029701-296ebfb4-70a3-4ce1-ba26-42a4b419ebfa.svg)](https://t.me/knjoc_knjoc)
+
