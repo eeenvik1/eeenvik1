@@ -33,8 +33,7 @@
 
 
 <h2 align="center">
-  My stats
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eeenvik1&theme=highcontrast" height="180px"/>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=eeenvik1&show_icons=true&theme=tokyonight" height="140px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeenvik1&layout=compact&theme=tokyonight" height="140px"/>
