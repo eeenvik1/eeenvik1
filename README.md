@@ -46,6 +46,10 @@
     <img align="center" src="https://habrastorage.org/getpro/habr/upload_files/636/e8f/5d7/636e8f5d7d64503435c838365cb3aa5a.png" alt="Фарм мерча от Positive Technologies на PHD11" height="250px">
     <p>Фарм мерча от Positive Technologies на PHD11</p>
   </a>
+  <a href="https://habr.com/ru/post/670314/">
+    <img align="center" src="https://habrastorage.org/getpro/habr/upload_files/875/96d/cb6/87596dcb6c494bc34c90b62567468c21.png" alt="Как мы парсили информацию об уязвимостях" height="250px">
+    <p>Как мы парсили информацию об уязвимостях</p>
+  </a>
 </div>
 
 🔗**Find me here:**
