@@ -1,4 +1,10 @@
-### Hi everyone, I'm Ruslan
+<h1 align="center">
+  Hi everyone, I'm Ruslan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+  <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=eeenvik1&style=plastic&color=blueviolet" alt=""/>
+  </div>
+</h1>
 
 
 ### I'm  member of the purple team and vulnerability researcher
@@ -24,15 +30,22 @@
 [![rvision](https://user-images.githubusercontent.com/49790977/170035548-58e6249d-0a84-49ce-a40b-dd1df868de21.svg)](https://rvision.ru/)
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeenvik1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeenvik1&layout=compact&theme=tokyonight)
-
+<h2 align="center">
+  My stats
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=eeenvik1&show_icons=true&theme=tokyonight" height="190px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeenvik1&layout=compact&theme=tokyonight" height="190px"/>
+  </div>
+</h2>
+  
+  ## My Habr Posts
+<div align="center">
+  <a href="https://habr.com/ru/post/668874/">
+    <img align="center" src="https://habrastorage.org/getpro/habr/upload_files/636/e8f/5d7/636e8f5d7d64503435c838365cb3aa5a.png" alt="Фарм мерча от Positive Technologies на PHD11" height="225px">
+    <p>Фарм мерча от Positive Technologies на PHD11</p>
+  </a>
+</div>
 
 🔗**Find me here:**
 [![telegram](https://user-images.githubusercontent.com/49790977/170029701-296ebfb4-70a3-4ce1-ba26-42a4b419ebfa.svg)](https://t.me/knjoc_knjoc)
-
-
-
-
