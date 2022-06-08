@@ -18,6 +18,7 @@
 
 [![python](https://user-images.githubusercontent.com/49790977/172412128-309cd361-9b29-4a05-a8bc-6630d875f8cb.svg)](https://www.python.org/)
 [![c_plus_plus](https://user-images.githubusercontent.com/49790977/170052129-8ab11c77-1f27-4647-b8b0-5d2e8e5c3f4c.svg)](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160)
+[![shell](https://user-images.githubusercontent.com/49790977/172551445-2eb44926-bb98-4c3c-a490-4b5c158034eb.svg)](https://ru.wikipedia.org/wiki/Bash)
 
 
 [![capec](https://user-images.githubusercontent.com/49790977/170033923-4ef7d691-4ea3-4065-b4ea-25944aa7afa9.svg)](https://capec.mitre.org/)
@@ -28,6 +29,7 @@
 [![redmine](https://user-images.githubusercontent.com/49790977/170052436-e9b08e11-bcc6-4577-ba58-5fd929b89bad.svg)](https://www.redmine.org/)
 [![YT](https://user-images.githubusercontent.com/49790977/170052440-673308d2-e24f-416a-b6f8-1c4f75ee7b7b.svg)](https://www.jetbrains.com/ru-ru/youtrack/)
 [![rvision](https://user-images.githubusercontent.com/49790977/170035548-58e6249d-0a84-49ce-a40b-dd1df868de21.svg)](https://rvision.ru/)
+[![github](https://user-images.githubusercontent.com/49790977/172551437-a2b9b772-4a95-4815-89af-2c09bf6368fe.svg)](https://github.com)
 
 
 <h2 align="center">
@@ -42,7 +44,7 @@
   ## My Habr Posts
 <div align="center">
   <a href="https://habr.com/ru/post/668874/">
-    <img align="center" src="https://habrastorage.org/getpro/habr/upload_files/636/e8f/5d7/636e8f5d7d64503435c838365cb3aa5a.png" alt="Фарм мерча от Positive Technologies на PHD11" height="225px">
+    <img align="center" src="https://habrastorage.org/getpro/habr/upload_files/636/e8f/5d7/636e8f5d7d64503435c838365cb3aa5a.png" alt="Фарм мерча от Positive Technologies на PHD11" height="250px">
     <p>Фарм мерча от Positive Technologies на PHD11</p>
   </a>
 </div>
