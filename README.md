@@ -34,8 +34,8 @@
   My stats
   
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=eeenvik1&show_icons=true&theme=tokyonight" height="190px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeenvik1&layout=compact&theme=tokyonight" height="190px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=eeenvik1&show_icons=true&theme=tokyonight" height="140px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeenvik1&layout=compact&theme=tokyonight" height="140px"/>
   </div>
 </h2>
   
