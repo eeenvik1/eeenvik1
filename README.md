@@ -50,6 +50,10 @@
     <img align="center" src="https://habrastorage.org/getpro/habr/upload_files/875/96d/cb6/87596dcb6c494bc34c90b62567468c21.png" alt="Как мы парсили информацию об уязвимостях" height="250px">
     <p>Как мы парсили информацию об уязвимостях</p>
   </a>
+  <a href="https://habr.com/ru/post/671808/">
+    <img align="center" src="https://habrastorage.org/getpro/habr/upload_files/6dc/157/259/6dc157259be1f8a8bf991e28fb3d3f3c.jpg" alt="Vulnerability Management изнутри. Примеры, ошибки и подводные камни" height="175px">
+    <p>Vulnerability Management изнутри. Примеры, ошибки и подводные камни</p>
+  </a>
 </div>
 
 🔗**Find me here:**
